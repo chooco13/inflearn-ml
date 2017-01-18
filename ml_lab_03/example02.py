@@ -1,5 +1,4 @@
 import tensorflow as tf
-import matplotlib.pyplot as plt
 
 x_data = [1., 2., 3.]
 y_data = [1., 2., 3.]
